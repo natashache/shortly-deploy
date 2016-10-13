@@ -38,6 +38,7 @@ window.Shortly = Backbone.View.extend({
       .addClass('selected');
   }
 });
+
 ;Shortly.createLinkView = Backbone.View.extend({
   className: 'creator',
 
